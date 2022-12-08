@@ -1,3 +1,4 @@
 - Hi i'm keagan rieder
-- I'm currenty attending the universtiy of lethbridge, for a BSA new media/computer science degree
+- I'm currenty attending the universtiy of lethbridge, for a combined degree in 
+new media and computer science 
 - 
