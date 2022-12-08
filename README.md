@@ -1,0 +1,3 @@
+- Hi i'm keagan rieder
+- I'm currenty attending the universtiy of lethbridge, for a BSA new media/computer science degree
+- 
