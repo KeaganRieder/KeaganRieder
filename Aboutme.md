@@ -1,2 +1,0 @@
-- Hi I'm Keagan,
-- I'm a student attending the University of Lethrbidge for a combined degree in New Media and computer science.
