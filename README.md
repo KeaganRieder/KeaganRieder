@@ -53,27 +53,9 @@ When I'm not coding, you'll find me **drawing** or immersed in games—from city
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeaganRieder&show_icons=true&theme=tokyonight&hide_border=true" alt="Keagan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=KeaganRieder&theme=tokyonight&hide_border=true" alt="Keagan's GitHub Streak" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
-- 🔭 Building a procedural storytelling game engine
-- 🌱 Deepening knowledge in graphics programming and shader development
-- 👯 Open to collaborating on game development and creative coding projects
-- 💬 Ask me about game architecture, procedural generation, or SOLID principles
-
+- Building a procedural storytelling game
 ---
 
 ## 📫 Let's Connect
