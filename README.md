@@ -1,43 +1,99 @@
-<h1 align="center">Hi, I'm Keagan Rieder </h1>
+<h1 align="center">👋 Hi, I'm Keagan Rieder</h1>
 
-<h2>About Me</h2>
+<p align="center">
+  <em>New Media & Computer Science Student | Game Developer | Software Engineer</em>
+</p>
 
-I'm a New Media and Computer Science student
+<p align="center">
+  <a href="https://keaganrieder.github.io/Portfolio/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/keagan-rieder/">💼 LinkedIn</a> •
+  <a href="mailto:keagan@rieder.ca">📧 Email</a>
+</p>
 
-Across my Computer Science degree, I’ve developed a strong foundation in software design—SOLID principles, scalable architecture, and clean, maintainable code. I’ve worked with C++ and OpenGL to build a drivable 3D city environment, which gave me a deeper appreciation for graphics pipelines, optimization, and how small technical decisions ripple through a system.
+---
 
-On the New Media side, I’ve had the opportunity to follow the full development cycle within a team setting. Using Godot and C#, we took a game from concept to a playable build, pushing through design iterations, testing feedback, and cross-disciplinary collaboration. It taught me the discipline of showing up, communicating clearly, and making smarter design decisions with every pass.
+## 🚀 About Me
 
-Outside of school, I’ve been building my own small game to explore dynamic content generation and procedural storytelling. It’s been a great way to challenge myself—experimenting with systems, refining my programming habits, and trying to create something that’s both technically solid and genuinely fun to interact with.
+I'm a passionate developer combining **Computer Science** fundamentals with **New Media** creativity to build engaging, well-architected software and games. 
 
-For my free time, I enjoy drawing and playing a variety of games, from city builders, strategy games, to role-playing games
+### 💻 Computer Science Journey
+Throughout my degree, I've developed a strong foundation in software design principles—**SOLID**, scalable architecture, and clean, maintainable code. I've worked extensively with **C++** and **OpenGL** to build performant graphics applications, deepening my understanding of low-level systems and rendering pipelines.
 
-- Portfolio Site: [link](https://keaganrieder.github.io/Portfolio/)
+### 🎮 New Media Experience
+On the New Media side, I've experienced the full game development cycle within collaborative team environments. Using **Godot** and **C#**, we've taken games from initial concept through to playable builds, navigating design challenges, iteration, and player feedback along the way.
 
-<h2>Skills</h2>
+### 🔨 Personal Projects
+Outside of school, I'm building my own game focused on **dynamic content generation** and **procedural storytelling**.  This project pushes me to experiment with complex systems, refine my architecture decisions, and explore emergent gameplay mechanics.
 
-<h3>Languages</h3>
+### 🎨 Beyond Code
+When I'm not coding, you'll find me **drawing** or immersed in games—from city builders and strategy games to deep RPGs. These hobbies fuel my creativity and inform my approach to game design.
 
-- C#
-- C++
+---
 
-<h3>Practices and principles</h3>
+## 🛠️ Technical Skills
 
-- SOLID
-- OOD
-- DRY
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3>Software And Tools</h3>
+### Frameworks & Technologies
+![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-- Github
-- Gitlab
-- Visual Studio Code
+### Development Practices
+- **SOLID Principles** - Writing maintainable, extensible code
+- **Object-Oriented Design (OOD)** - Designing scalable systems
+- **DRY (Don't Repeat Yourself)** - Reducing code redundancy
+- **Version Control** - Git workflows and collaboration
 
-<h2>Lets Connect</h2>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- [Linkedin](https://www.linkedin.com/in/keagan-rieder/)
-- [Email](keagan@rieder.ca)
+---
 
-<br>
+## 📊 GitHub Stats
 
-Last Edited on: 09/11/2022
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeaganRieder&show_icons=true&theme=tokyonight&hide_border=true" alt="Keagan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/? user=KeaganRieder&theme=tokyonight&hide_border=true" alt="Keagan's GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building a procedural storytelling game engine
+- 🌱 Deepening knowledge in graphics programming and shader development
+- 👯 Open to collaborating on game development and creative coding projects
+- 💬 Ask me about game architecture, procedural generation, or SOLID principles
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with fellow developers, game creators, and tech enthusiasts! 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/keagan-rieder/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:keagan@rieder.ca">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://keaganrieder.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000? style=for-the-badge&logo=About. me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Last Updated: December 2025</em>
+</p>
