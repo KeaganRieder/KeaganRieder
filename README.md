@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Keagan Rieder</h1>
+<h1 align="center"> Hi, I'm Keagan Rieder</h1>
 
 <p align="center">
   <em>New Media & Computer Science Student | Game Developer | Software Engineer</em>
@@ -12,25 +12,25 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate developer combining **Computer Science** fundamentals with **New Media** creativity to build engaging, well-architected software and games. 
 
-### 💻 Computer Science Journey
+### Computer Science Journey
 Throughout my degree, I've developed a strong foundation in software design principles—**SOLID**, scalable architecture, and clean, maintainable code. I've worked extensively with **C++** and **OpenGL** to build performant graphics applications, deepening my understanding of low-level systems and rendering pipelines.
 
-### 🎮 New Media Experience
+### New Media Experience
 On the New Media side, I've experienced the full game development cycle within collaborative team environments. Using **Godot** and **C#**, we've taken games from initial concept through to playable builds, navigating design challenges, iteration, and player feedback along the way.
 
-### 🔨 Personal Projects
+### Personal Projects
 Outside of school, I'm building my own game focused on **dynamic content generation** and **procedural storytelling**.  This project pushes me to experiment with complex systems, refine my architecture decisions, and explore emergent gameplay mechanics.
 
-### 🎨 Beyond Code
+### Beyond Code
 When I'm not coding, you'll find me **drawing** or immersed in games—from city builders and strategy games to deep RPGs. These hobbies fuel my creativity and inform my approach to game design.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -53,14 +53,12 @@ When I'm not coding, you'll find me **drawing** or immersed in games—from city
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building a procedural storytelling game
 ---
 
-## 📫 Let's Connect
-
-I'm always interested in connecting with fellow developers, game creators, and tech enthusiasts! 
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keagan-rieder/">
