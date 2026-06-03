@@ -71,9 +71,3 @@ When I'm not coding, you'll find me **drawing** or immersed in games—from city
   <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <em>Last Updated: December 2025</em>
-</p>
